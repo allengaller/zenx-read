@@ -1,8 +1,26 @@
-hacker_reader
-=============
+# Hacker Reader #
 
-For daily hacker news reader: 
-Automatically open all the articles in your default browser with one click.
+## Overview ##
 
-by Allen Galler
-http://yalun.org
+This is a powerful tool for __daily hacker news reader__.  
+
+## Function ##
+
+Automatically open __all the articles you need to read__ in your default browser with one click.
+
+## Installation ##
+**First**, you need _Python_ interpreter.  
+
+**Then**, run this under _idle_ or system console.
+
+> python hr_core.py  
+
+After this, your default browser will pop-out with new tabs.  
+This new tabs open all the articles in Hacker News' mainpage.  
+Since this means about 10+ tabs running in the same time, you better have a _normal_ machine.
+
+For now this script support Mac/Linux/Windows.
+
+##About me##
+Allen Galler  
+<http://yalun.org>
