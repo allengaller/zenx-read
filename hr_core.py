@@ -33,7 +33,7 @@ def Runner(raw_url_list):
     for raw_url in raw_url_list:
         if raw_url.find("http") ==0:
             if raw_url.find("http://ycombinator.com") != 0:
-                print raw_url
+                #print raw_url
                 webbrowser.open(raw_url)
     return clean_url_list       
                    
