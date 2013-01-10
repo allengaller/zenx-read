@@ -1,8 +1,9 @@
-# Hacker Reader #
+# Coder Reader #
 
 ## Overview ##
 
 This is a powerful tool for __daily hacker news reader__.  
+There will be many more awesome resources added to the readling list.  
 
 ## Function ##
 
