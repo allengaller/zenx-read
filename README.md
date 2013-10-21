@@ -1,4 +1,5 @@
-# Coder Reader #
+# Upon Reader 上心阅读器 #
+*aka the Coder Reader project*
 
 ## Overview ##
 
