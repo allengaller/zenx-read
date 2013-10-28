@@ -23,6 +23,6 @@ Since this means about 10+ tabs running in the same time, you better have a _nor
 
 For now this script support Mac/Linux/Windows.
 
-##About me##
+##About us##
 Allen Galler  
-<http://yalun.org>
+<http://allengaller.com>
