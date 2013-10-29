@@ -11,28 +11,25 @@ Features
 
 * Self-host available, including server-side or client program.
 * Native support for the most popular and awesome resource, like HackerNews.   
-* RSS reader included.
-* pdf/txt/epub/mobi reader included.
-* The *Pure* system, a information manager for news/bookmark junkies.
+* Embedded RSS reader.
+* Embedded PDF/TXT/Epub/Mobi readers.
+* Embedded *Pure* system - information manager for news/bookmark junkies.
 
 Installation
 ------------
 
-After this, your default browser will pop-out with new tabs.  
-This new tabs open all the articles in Hacker News' mainpage.  
-Since this means about 10+ tabs running in the same time, you better have a _normal_ machine.
+*__Windows__*
 
-For now this script support Mac/Linux/Windows.
 
 About us
 --------
-__Apps4Coder Studio__
+__Apps4Coder Studio__   
 
-Founder: Allen Galler  
-<http://allengaller.com>
+Founder: Allen Galler   
+<http://allengaller.com>   
 
 Donation
---------
-http://me.alipay.com/allengaller
+--------   
+http://me.alipay.com/allengaller   
 
 
