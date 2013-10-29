@@ -14,11 +14,25 @@ Features
 * Embedded RSS reader.
 * Embedded PDF/TXT/Epub/Mobi readers.
 * Embedded *Pure* system - information manager for news/bookmark junkies.
+* Pocket, Instapaper, Email, QQ, Weichat, Weibo, G+ sharing.
+* Plug-in system support.
 
-Installation
-------------
+Client Installation
+-------------------
 
-*__Windows__*
+*__Mac Version__*   
+Developing
+
+*__Linux Version__*   
+Coming soon.   
+
+*__Windows Version__*   
+Coming soon.   
+
+Server Deployment
+------------------
+
+Coming soon.
 
 
 About us
