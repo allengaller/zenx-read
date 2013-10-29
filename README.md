@@ -1,4 +1,4 @@
-# Upon Reader 上心阅读器 #
+# Upon Reader - Your Reading Zone #
 *aka the Coder Reader project*
 
 About
@@ -46,4 +46,24 @@ Donation
 --------   
 http://me.alipay.com/allengaller   
 
+# 上心阅读器 #
+
+关于
+----
+
+特性
+----
+
+客户端安装
+----------
+
+
+服务器端部署
+-----------
+
+关于我们
+--------
+
+捐赠
+----
 
