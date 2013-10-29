@@ -1,10 +1,9 @@
 # Upon Reader 上心阅读器 #
 *aka the Coder Reader project*
 
-## Overview ##
+## About ##
 
-This is a powerful tool for __daily hacker news reader__.  
-There will be many more awesome resources added to the readling list.  
+Upon Reader is a full-stack reader for developer and hacker.
 
 ## Function ##
 
